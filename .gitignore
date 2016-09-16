@@ -32,3 +32,11 @@
 # webstorm
 /.idea/workspace.xml
 /.idea/libraries
+
+# IDEA
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
